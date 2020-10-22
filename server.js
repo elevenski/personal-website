@@ -77,28 +77,11 @@ let embed = new Discord.RichEmbed()
 [Support Server](https://discord.gg/axczJaR)`)
 .setThumbnail(client.user.avatarURL)
 .setAuthor(`Uptime`, client.user.avatarURL)
-.setFooter(`2020 © Uptime | Coded by MertBhey, Edited by Eleven.`, client.user.avatarURL)
+.setFooter(`2020 © Uptime | by Eleven.`, client.user.avatarURL)
 return message.channel.send(embed);
     }
  
 })
-
-
-/*client.on("message", message => {
-  if(message.author.bot) return;
-    var spl = message.content.split(" ");
-  if(spl[0] == "u.help") {
-message.channel.send(`**Uptime Bot Commands v1.0**
-
-\`u.help\` - Displays the help menu.
-\`u.add\` - Adds the link you specified to the system.
-\`u.say\` - It shows the number of links in the system.
-
-2020 © Uptime | Coded by MertBhey, Edited by Eleven.
-`)
-  }
- 
-})*/
 
 
 client.on("message", async message => {
