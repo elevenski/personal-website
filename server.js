@@ -37,11 +37,11 @@ client.on("message", message => {
   if(spl[0] == "u.add") {
   var link = spl[1]
   fetch(link).then(() => {
-    if(db.get("linkler").map(z => z.url).includes(link)) return message.channel.send("<:asuna_no:732219380795965471> Already Available!")
-    message.channel.send("<:asuna_yes:732219381085503529> Successful!");
+    if(db.get("linkler").map(z => z.url).includes(link)) return message.channel.send("Already Available!")
+    message.channel.send("Successful!");
     db.push("linkler", { url: link, owner: message.author.id})
   }).catch(e => {
-    return message.channel.send("<:asuna_no:732219380795965471> " + e)
+    return message.channel.send(e)
   })
   }
 })
@@ -77,7 +77,7 @@ let embed = new Discord.RichEmbed()
 [Support Server](https://discord.gg/axczJaR)`)
 .setThumbnail(client.user.avatarURL)
 .setAuthor(`Uptime`, client.user.avatarURL)
-.setFooter(`2020 © Uptime | by Eleven.`, client.user.avatarURL)
+.setFooter(`© Rise Development. (Eleven & Cenap)`, client.user.avatarURL)
 return message.channel.send(embed);
     }
  
@@ -87,9 +87,9 @@ return message.channel.send(embed);
 client.on("message", async message => {
 
   if(!message.content.startsWith("u.eval")) return;
-  if(!["689169122604744833","689169122604744833"].includes(message.author.id)) return;
+  if(!["Here Admin ID 1","Here Admin ID 2"].includes(message.author.id)) return;
   var args = message.content.split("u.eval")[1]
-  if(!args) return message.channel.send("<:asuna_no:732219380795965471> ..")
+  if(!args) return message.channel.send("Yes?")
   
       const code = args
     
