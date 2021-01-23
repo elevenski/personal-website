@@ -1,14 +1,12 @@
 # Uptime Bot
-### Info
-`*` Apache License <br>
-`*` [Discord](https://discord.gg/T4BMtSu)
-
-
-
-### Apache License
-`-` Open source code is not open to sharing. Necessary Transactions are applied to the person & persons who create the clone.
-
-
+### Contact
+* [Discord](https://discord.gg/T4BMtSu)
 
 ### Creators / Developers
-`-` Eleven & Cenap
+👤 Eleven
+<br>
+👤 Cenap
+
+### Setup
+1) Change the texts in the line I specified in the **server.js** file for yourself.
+ `Rows: 6, 90`
