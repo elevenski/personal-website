@@ -124,5 +124,3 @@ client.on("message", async message => {
   console.log(`${message}`);
 }
   
-  
-// s
