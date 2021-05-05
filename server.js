@@ -1,5 +1,4 @@
-require("express")().listen(1343);
-
+require("express")().listen(1343)
 const db = require("quick.db");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
