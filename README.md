@@ -1,12 +1,5 @@
 # Uptime Bot
-### Contact
-* [Discord](https://discord.gg/T4BMtSu)
+<a href="https://discord.gg/P578T3aYbj"><img src="http://invidget.switchblade.xyz/HWjPAAs9d3"/></a>
 
 ### Creators / Developers
 👤 Eleven
-<br>
-👤 Cenap
-
-### Setup
-1) Change the texts in the line I specified in the **server.js** file for yourself.
- `Rows: 6, 90`
