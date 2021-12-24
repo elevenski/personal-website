@@ -9,7 +9,7 @@
 `JavaScript`
 
 ## Contributors
-Thanks for contributions: `-`
+Thanks for contributions: `cenapyuce`
 
 ## Installation
 - npm i
