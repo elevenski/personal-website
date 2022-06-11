@@ -2,10 +2,7 @@
   <img width="100" src="https://raw.githubusercontent.com/elevenvac/elevenvac/master/Eleven_icon_higer_florence.png" alt="Eleven Icon">
 </p>
 
-## Description
-⚡ Discord-based Uptime bot.
-
-## Programming Languages
+## Languages
 `JavaScript`
 
 ## Contributors
