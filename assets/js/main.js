@@ -1,2 +1,1 @@
-const TOKEN = process.env.TOKEN
-console.log(TOKEN)
+console.log("test")
