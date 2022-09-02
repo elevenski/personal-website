@@ -3,14 +3,13 @@
 </p>
 
 ## Languages
-`JavaScript`
+_
 
 ## Contributors
-Thanks for contributions: `cenapyuce`
+Thanks for contributions: `AdemCanCertel`
 
 ## Installation
-- npm i
-- node server.js
+_
 
 ## Discord Server
 <a href="https://discord.gg/uhwjhWryND"><img src="http://invidget.switchblade.xyz/uhwjhWryND"/></a>
