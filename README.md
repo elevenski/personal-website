@@ -3,13 +3,14 @@
 </p>
 
 ## Languages
-_
+`JavaScript`, `Vue`, `CSS`
 
 ## Contributors
 Thanks for contributions: `AdemCanCertel`
 
 ## Installation
-_
+- npm i
+- npm run dev
 
 ## Discord Server
 <a href="https://discord.gg/uhwjhWryND"><img src="http://invidget.switchblade.xyz/uhwjhWryND"/></a>
