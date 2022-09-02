@@ -1,6 +1,6 @@
 {
-    "name": "nuxt",
-    "description": "my first nuxt project.",
+    "name": "personal-website",
+    "description": "Simple personal website built with Nuxt.js & Tailwind CSS.",
     "license": "MIT",
     "version": "1.0.0",
     "author": {
