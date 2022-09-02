@@ -3,7 +3,7 @@
 </p>
 
 ## Languages
-`JavaScript`, `Vue`, `CSS`
+`Vue`, `CSS`, `JavaScript`
 
 ## Contributors
 Thanks for contributions: `AdemCanCertel`
