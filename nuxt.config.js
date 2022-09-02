@@ -37,5 +37,6 @@ export default {
     modules: ['@nuxtjs/tailwindcss'],
     tailwindcss: {
         // Options
-    }
+    },
+    dir: 'public'
 }
