@@ -1,6 +1,11 @@
+import { resolve } from 'path'
 import components from "./config/components"
 
 export default {
+    /*alias: {
+        'style': resolve(__dirname, './assets/css')
+    },*/
+    target: 'static',
     build: {
         extractCSS: true,
     },
@@ -32,11 +37,5 @@ export default {
     modules: ['@nuxtjs/tailwindcss'],
     tailwindcss: {
         // Options
-    },
-    dir: 'public',
-    target: 'static',
-    ssr: false,
-    generate: {
-        fallback: true
     }
 }
