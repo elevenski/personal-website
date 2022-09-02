@@ -1,11 +1,7 @@
-/*import { resolve } from 'path'*/
 import components from "./config/components"
 target: 'static'
 
 export default {
-    /*alias: {
-        'style': resolve(__dirname, './assets/css')
-    },*/
     build: {
         extractCSS: true,
     },
