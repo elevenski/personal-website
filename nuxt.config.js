@@ -1,5 +1,4 @@
 import components from "./config/components"
-target: 'static'
 
 export default {
     build: {
@@ -34,5 +33,10 @@ export default {
     tailwindcss: {
         // Options
     },
-    dir: 'public'
+    dir: 'public',
+    target: 'static',
+    ssr: false,
+    generate: {
+        fallback: true
+    }
 }
