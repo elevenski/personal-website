@@ -12,6 +12,9 @@ export default {
     buildModules: [
         '@nuxtjs/dotenv'
     ],
+    env: {
+        TOKEN: process.env.TOKEN,
+    },
     css: [
         '~/assets/css/main.css'
     ],
