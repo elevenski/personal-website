@@ -1,3 +1,17 @@
 <template>
-  <span class="text-red-500">+SAY MY NAME -HEISENBERG +YOU'RE GODDAMN RIGHT<br>BİR KUTU, İKİ KUTU, HEPSİ ON CENT TUTTU</span>
+  <div>
+    <About />
+    <ImageWp />
+  </div>
 </template>
+
+<script>
+import About from "~/components/About.vue"
+import ImageWp from "~/components/ImageWp.vue"
+  export default{
+    components: {
+        About,
+        ImageWp
+    }
+  }
+</script>
