@@ -16,7 +16,7 @@ export default {
         '@nuxtjs/tailwindcss'
     ],
     env: {
-        TOKEN: process.env.TOKEN,
+        TEST: process.env.TEST,
     },
     css: [
         '~/assets/css/main.css'
