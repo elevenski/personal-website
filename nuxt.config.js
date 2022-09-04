@@ -35,7 +35,7 @@ export default {
                 content: 'my website description'
             }
         ],
-        link: [{ rel: 'icon', type: 'image/x-icon', href: 'nuxt.webp' }]
+        link: [{ rel: 'icon', type: 'image/x-icon', href: 'nuxt_64x.png' }]
     },
     noscript: [
         { innerHTML: 'This website requires JavaScript.' }
