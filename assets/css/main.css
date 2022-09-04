@@ -87,18 +87,18 @@ a:hover {
     display: inline-block;
 }
 
-.aboutBtn {
+.generalBtn {
     background: var(--secondary-background-color);
     display: inline-block;
     transition: all 0.1s linear
 }
 
-.aboutBtn:hover {
+.generalBtn:hover {
     background: var(--tertiary-background-color);
     transition: all 0.1s linear
 }
 
-.aboutBtnText {
+.generalBtnText {
     margin: 0px 10px 0px 10px
 }
 
