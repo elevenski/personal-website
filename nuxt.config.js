@@ -12,6 +12,9 @@ export default {
     buildModules: [
         '@nuxtjs/dotenv'
     ],
+    modules: [
+        '@nuxtjs/tailwindcss'
+    ],
     env: {
         TOKEN: process.env.TOKEN,
     },
@@ -37,7 +40,6 @@ export default {
     noscript: [
         { innerHTML: 'This website requires JavaScript.' }
     ],
-    modules: ['@nuxtjs/tailwindcss'],
     tailwindcss: {
         // Options
     }
