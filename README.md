@@ -6,7 +6,7 @@
 `Vue`, `CSS`, `JavaScript`
 
 ## Contributors
-Thanks for contributions: `AdemCanCertel`
+Thanks for contributions: `ademcertell`
 
 ## Installation
 - npm i
