@@ -5,7 +5,7 @@
 </center>
 <div id="aboutComps" class="mt-6">
 <p class="boldText"><b>More about me</b></p>
-<p class="normalText opacity-60 mt-4">I am Alp "Eleven" Oz, a self-taught web developer based in <a href="https://www.google.com/search?q=turkey" target="_blank" class="border-gray-500 border-b-2 border-opacity-40 hover:border-opacity-70">Turkey</a>.</p>
+<p class="normalText opacity-60 mt-4">I am Eleven, a self-taught web developer based in <a href="https://www.google.com/search?q=turkey" target="_blank" class="border-gray-500 border-b-2 border-opacity-40 hover:border-opacity-70">Turkey</a>.</p>
 <p class="normalText opacity-60 mt-4">I am passionate about design and technology so I always try to craft great-looking products.</p>
 <p class="normalText opacity-60 mt-4">Before getting into web development, I was building discord bots and I had a bot serving over 1.5k servers. When I started programming my first bot, I realized what my true passion was and started learning more about programming.</p>
 <p class="normalText opacity-60 mt-4">When not coding, I like to watch TV shows and movies, play some games with friends or hang out with them. I'm also listening to music most of the time.</p>
