@@ -6,22 +6,12 @@
 
 ---
 
-### Personal Website
-
-Fast and responsive personal website built with Nuxt.js and Tailwind CSS, designed for clean UI.
-
-> 🌐 Live demo/site: [personal-website-elevenvac.vercel.app](https://personal-website-elevenvac.vercel.app)
-
 ### Installation
 - npm i
 - npm run dev
 
 ### Contributors
 - ademcertell
-
-### License
-MIT
-
 
 ### Discord Server
 <a href="https://discord.gg/SSMFDRvrYz" target="_blank">
