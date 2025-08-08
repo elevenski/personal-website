@@ -24,6 +24,6 @@ MIT
 
 
 ### Discord Server
-<a href="https://discord.gg/uhwjhWryND">
+<a href="https://discord.gg/SSMFDRvrYz">
   <img src="http://invidget.switchblade.xyz/SSMFDRvrYz"/>
 </a>
